@@ -65,3 +65,13 @@ npm install react-icons
 ```
 npm start
 ```
+
+### Output
+<img width="696" height="642" alt="login" src="https://github.com/user-attachments/assets/b644d6ce-73d8-41c3-a9af-d59b821820b8" />
+<img width="599" height="563" alt="register" src="https://github.com/user-attachments/assets/90dbdc6d-d06a-4b9d-adc3-41b0b7e1b668" />
+<img width="1920" height="901" alt="user-1" src="https://github.com/user-attachments/assets/65f21a3b-4474-4d3a-924b-dbc849ef1a1a" />
+<img width="1920" height="886" alt="user-2" src="https://github.com/user-attachments/assets/2274158e-521c-4906-906b-114a5bfa97e5" />
+
+
+
+
