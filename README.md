@@ -25,6 +25,7 @@ Make sure you have installed:
 - MongoDb
 
 ### Project Structure
+```
 chattt/
 │
 ├── backend/
@@ -37,6 +38,7 @@ chattt/
 │   ├── App.js
 │
 └── README.md
+```
 
 ### Setup Backend
 
@@ -47,7 +49,9 @@ npm install express mongoose cors dotenv bcryptjs jsonwebtoken multer socket.io
 ```
 
 ### RUN
-```node server.js```
+```
+node server.js
+```
 
 ### Setup Frontend
 ``` 
