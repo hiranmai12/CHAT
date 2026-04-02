@@ -25,7 +25,7 @@ Make sure you have installed:
 - MongoDb
 
 ### Project Structure
-```chattt/
+chattt/
 │
 ├── backend/
 │   ├── models/
@@ -36,7 +36,7 @@ Make sure you have installed:
 │   ├── src/
 │   ├── App.js
 │
-└── README.md```
+└── README.md
 
 ### Setup Backend
 
